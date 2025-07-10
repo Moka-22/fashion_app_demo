@@ -35,7 +35,7 @@ class SliderWidget extends StatelessWidget {
               child: const Column(
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
-                  const Text(
+                  Text(
                     'Summer',
                     style: TextStyle(
                       color: Colors.white,
@@ -43,7 +43,7 @@ class SliderWidget extends StatelessWidget {
                       fontWeight: FontWeight.bold,
                     ),
                   ),
-                  const Text(
+                  Text(
                     'Collection',
                     style: TextStyle(
                       color: Colors.white,
@@ -51,7 +51,7 @@ class SliderWidget extends StatelessWidget {
                       fontWeight: FontWeight.bold,
                     ),
                   ),
-                  const Text(
+                  Text(
                     '2025',
                     style: TextStyle(
                       color: Colors.white,
